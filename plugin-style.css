@@ -1,0 +1,15 @@
+/*#live_score tr th,td{
+	padding: 0px 30px;
+}
+*/
+.alignRight{
+	text-align: right;
+}
+.oddsAlignMiddleOne{
+	float: left;
+	position: relative;
+	top: -8px;
+}
+span.score_period_name {
+    padding-left: 10px;
+}
